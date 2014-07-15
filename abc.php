@@ -1,0 +1,2 @@
+<?php echo "TTT"?>
+<?php echo 123*3?>
